@@ -1,2 +1,3 @@
-print("Hello, Git!")
-print("Version 2 - updated output")
+# CSE103 Lab Project
+
+print("Welcome to CSE103 Lab 3")
